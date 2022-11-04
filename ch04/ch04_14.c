@@ -15,4 +15,3 @@ long string. \n");
     
     return 0;
  } 
- 

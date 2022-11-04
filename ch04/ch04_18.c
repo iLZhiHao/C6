@@ -92,5 +92,9 @@ int main(void)
 //     第11题
 /*    printf("The double type is %zx bytes..\n",sizeof(double));  */
 
+
+
+
+
     return 0;
 }
