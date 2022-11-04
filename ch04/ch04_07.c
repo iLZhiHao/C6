@@ -12,4 +12,5 @@
     printf("*%-10d*\n",PAGES);
 
     return 0;
- } 
+ }
+  
